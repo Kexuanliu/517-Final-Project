@@ -12,11 +12,11 @@ For each notebook, please do the following steps:
 <ol>
 <li> replace all the paths to the places that store corresponding data<br>
   Path to data folder: https://drive.google.com/drive/folders/1gwRPVjreE5iGJNAIGQIJaeVj2FW0HpuX?usp=sharing
-<li> Perspective API key is included in the code but you can also <a href="https://support.perspectiveapi.com/s/docs-get-started">apply for one</a> and <a href="https://support.perspectiveapi.com/s/request-quota-increase">make a request to increase the 25 requests/sec limit<a>
+<li> a Perspective API key is included in the code but you can also <a href="https://support.perspectiveapi.com/s/docs-get-started">apply for one</a> and <a href="https://support.perspectiveapi.com/s/request-quota-increase">make a request to increase the 25 requests/sec limit<a>
 <li> run each block in order from the top of the notebook to the bottom
 </ol> 
 <p>
-  <b>ABOUT THE NOTEBOOKS</ba>
+  <b>ABOUT THE NOTEBOOKS</b>
 <P>
 Under the notebooks directory, you will find three notebooks:<br />
 <ul>
