@@ -6,7 +6,7 @@ Clone the repostitory:
 <p>
 <code>git clone https://github.com/Kexuanliu/517-Final-Project</code>
 <p>
-  <b>CONFIGURAITON</b>
+  Change to the notebooks direcotry where you will find three notebooks
 <p>
 For each notebook, please do the following steps:
 <ol>
