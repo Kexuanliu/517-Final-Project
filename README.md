@@ -21,7 +21,7 @@ For each notebook, please do the following steps:
 Under the notebooks directory, you will find three notebooks:<br />
 <ul>
 <li>prompted.ipynb includes code that downloads all the data, generates sentences using prompts with three models: GPT-1, GPT-2 and CTRL, and produces toxicity summaries of those generations.
-<li>unprompted_generation.ipynb includes code that generates sentences using respective start-of-sentence token of the same three models.
+<li>unprompted_generation.ipynb includes code that generates sentences using respective end-of-sentence token of the same three models.
 <li>unprompted_results.ipynb includes code that produces the graph of toxicity with respect to number of experiment trials using those generations.
 </ul>
 <P/>
